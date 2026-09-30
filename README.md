@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/progmasterpro"> <img src="https://img.shields.io/badge/GitHub-progmasterpro-181717?style=flat&logo=github"> </a> <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white"> </a> <a href="https://fastapi.tiangolo.com/"> <img src="https://img.shields.io/badge/FastAPI-0.1xx-009688?style=flat&logo=fastapi&logoColor=white"> </a> </p>
 
-About me
+<h3>About me</h3> 
 
 I'm focused on Python backend development and currently looking for my first commercial backend position.
 
@@ -16,7 +16,7 @@ Tech Stack
 
 <table> <tr> <td><b>Languages</b></td> <td>Python, SQL</td> </tr> <tr> <td><b>Backend</b></td> <td>FastAPI, Pydantic</td> </tr> <tr> <td><b>Database</b></td> <td>PostgreSQL, SQLAlchemy, Alembic</td> </tr> <tr> <td><b>Async / Tasks</b></td> <td>asyncio, Redis, Celery</td> </tr> <tr> <td><b>Testing</b></td> <td>pytest, pytest-asyncio, HTTPX</td> </tr> <tr> <td><b>Tools</b></td> <td>Docker, Docker Compose, Git, GitHub</td> </tr> </table>
 
-Projects
+<h3>Projects</h3>
 Booking App
 
 Backend service for hotel booking.
@@ -38,7 +38,7 @@ Open Source
 
 I'm interested in contributing to Python open-source projects, especially projects related to FastAPI and backend development.
 
-Currently learning
+<h3> Currently learning </h3> 
 FastAPI
 PostgreSQL
 Async Python
@@ -47,9 +47,10 @@ Backend architecture
 Testing
 Open-source development
 
-Contact
+<h3> Contact </h3> 
 
 <p> <a href="https://github.com/progmasterpro"> <img src="https://img.shields.io/badge/GitHub-progmasterpro-181717?style=flat&logo=github"> </a> </p>
 
+<h3> Codewars </h3> 
 
 [![codewars](https://www.codewars.com/users/progmasterpro/badges/small)](https://www.codewars.com/users/username) 
