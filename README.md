@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm progmasterpro</h1>
 
-<!--
-**progmasterpro/progmasterpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> Python Backend Developer </p>
 
-Here are some ideas to get you started:
+<p align="center"> <a href="https://github.com/progmasterpro"> <img src="https://img.shields.io/badge/GitHub-progmasterpro-181717?style=flat&logo=github"> </a> <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white"> </a> <a href="https://fastapi.tiangolo.com/"> <img src="https://img.shields.io/badge/FastAPI-0.1xx-009688?style=flat&logo=fastapi&logoColor=white"> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me
+
+I'm focused on Python backend development and currently looking for my first commercial backend position.
+
+I work with asynchronous Python and build backend projects using FastAPI, PostgreSQL, Redis and Celery.
+
+I'm also interested in open-source development and improving my skills through real projects.
+
+Tech Stack
+
+<table> <tr> <td><b>Languages</b></td> <td>Python, SQL</td> </tr> <tr> <td><b>Backend</b></td> <td>FastAPI, Pydantic</td> </tr> <tr> <td><b>Database</b></td> <td>PostgreSQL, SQLAlchemy, Alembic</td> </tr> <tr> <td><b>Async / Tasks</b></td> <td>asyncio, Redis, Celery</td> </tr> <tr> <td><b>Testing</b></td> <td>pytest, pytest-asyncio, HTTPX</td> </tr> <tr> <td><b>Tools</b></td> <td>Docker, Docker Compose, Git, GitHub</td> </tr> </table>
+
+Projects
+Booking App
+
+Backend service for hotel booking.
+
+What I worked with:
+
+FastAPI and asynchronous endpoints
+PostgreSQL and SQLAlchemy 2
+JWT authentication
+Redis caching
+Celery background tasks
+Alembic migrations
+Docker Compose
+pytest and async API tests
+
+<a href="https://github.com/progmasterpro/booking_app"> <img src="https://img.shields.io/badge/View%20project-Booking%20App-181717?style=for-the-badge&logo=github"> </a>
+
+Open Source
+
+I'm interested in contributing to Python open-source projects, especially projects related to FastAPI and backend development.
+
+Currently learning
+FastAPI
+PostgreSQL
+Async Python
+Docker
+Backend architecture
+Testing
+Open-source development
+
+Contact
+
+<p> <a href="https://github.com/progmasterpro"> <img src="https://img.shields.io/badge/GitHub-progmasterpro-181717?style=flat&logo=github"> </a> </p>
+
+
+[![codewars](https://www.codewars.com/users/progmasterpro/badges/small)](https://www.codewars.com/users/username) 
