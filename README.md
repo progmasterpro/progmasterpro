@@ -34,23 +34,22 @@ pytest and async API tests
 
 <a href="https://github.com/progmasterpro/booking_app"> <img src="https://img.shields.io/badge/View%20project-Booking%20App-181717?style=for-the-badge&logo=github"> </a>
 
-Open Source
+<h3> Open Source </h3> 
 
 I'm interested in contributing to Python open-source projects, especially projects related to FastAPI and backend development.
 
 <h3> Currently learning </h3> 
-FastAPI
-PostgreSQL
-Async Python
-Docker
-Backend architecture
-Testing
+
+Backend architecture,
+Testing,
 Open-source development
+
+<h3> Codewars </h3> 
+
+[![codewars](https://www.codewars.com/users/progmasterpro/badges/small)](https://www.codewars.com/users/username) 
 
 <h3> Contact </h3> 
 
 <p> <a href="https://github.com/progmasterpro"> <img src="https://img.shields.io/badge/GitHub-progmasterpro-181717?style=flat&logo=github"> </a> </p>
 
-<h3> Codewars </h3> 
 
-[![codewars](https://www.codewars.com/users/progmasterpro/badges/small)](https://www.codewars.com/users/username) 
